@@ -1,5 +1,5 @@
 # Info_Systems_Dev_Methodologies
-
+[![Backend CI Pipeline](https://github.com/Nasos001/Info_Systems_Dev_Methodologies/actions/workflows/main.yml/badge.svg)](https://github.com/Nasos001/Info_Systems_Dev_Methodologies/actions/workflows/main.yml)
 This README acts as a guide on the installation of the app developed by our student team as an assignement by our university.
 
 1. ΡΥΘΜΙΣΗ ΒΑΣΗΣ ΔΕΔΟΜΕΝΩΝ
